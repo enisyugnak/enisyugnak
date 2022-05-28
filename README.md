@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enisyugnak
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me selflearner@gmail.com
 
