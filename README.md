@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enisyugnak
+- 👋 Hi, I’m @enisyugnak aka SelfLearner
 - 👀 I’m interested in Web Apps
 - 🌱 Working with React, NextJs
 - 💞️ Styling with Css, TailwindCss and so on... 
