@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enisyugnak
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Apps
+- 🌱 Working with React, NextJs
+- 💞️ Styling with Css, TailwindCss and so on... 
 - 📫 How to reach me selflearner@gmail.com
 
 <!---
